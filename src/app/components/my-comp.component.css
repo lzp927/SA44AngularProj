@@ -1,0 +1,13 @@
+.container button {        
+  width: 8%;
+  margin: 2px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;
+}
